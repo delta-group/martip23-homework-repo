@@ -17,4 +17,5 @@ Section 1 - Basic Measurement Units
 *Circumference of the Earth = 24901miles
     -(google.com)
 
-
+Section 2 - Basic Terminology
+*yotta something = 1000\ :sub:`8`\ 
