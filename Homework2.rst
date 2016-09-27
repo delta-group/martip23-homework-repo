@@ -18,4 +18,6 @@ Section 1 - Basic Measurement Units
     -(google.com)
 
 Section 2 - Basic Terminology
-*yotta something = 1000\ :sub:`8`\ 
+================
+
+*yotta something = 1000\ :sup:`8`\ 
