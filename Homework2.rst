@@ -50,4 +50,12 @@ Section 3 - From Physics
 
 Section 4 - Speed of Electronic Signals
 ===================
+*How far can an alectronic signal move through a wire:*
+
+*In one nanosecond = 11.80 inches
+    -(63360in / 1 mi * 186282mi / sec * 1sec / 1000000000 ns)
+
+*In one microsecond = 327.86ft
+    -(186282mi / 1 sec * 1760ft / 1 mi * 1s / 1000000μs)
+
 
