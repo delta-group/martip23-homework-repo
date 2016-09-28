@@ -65,24 +65,31 @@ Section 5 - From our World of Processors
 =======================
 *Data for Haswell GT2 4C chip*
 
-*Manufacturing Process = 22nm
+***Manufacturing Process = 22nm**
 
-*Transistor Count = 1.4B
+***Transistor Count = 1.4B**
 
 *Die Size = 177mm\ :sup:`2`
     -(http://www.anandtech.com/show/7003/the-haswell-review-intel-core-i74770k-i54560k-tested/5)
 
 *Time for a signal to move between transistors = 0.001 ps
     -sqrt(1.4B) = 37416.57 Transistors on one edge
+
     -sqrt(264mm) = 16.24mm on each edge
+
     -(16.24mm / 37416.57T * 1x10\ :sup:`6`\ nm / 1mm = 434nm between transistors
+
     -(299739km / 1sec * 1000m / 1km * 1*10\ :sup:`9`\ nm / 1m * 1s / 1*10\ :sup:`12`\ ps = 299792nm per picosecond
+
     -434nm / 299792nm = .001 ps to move between transistors
 
 Section 6 - Counting Up
 =====================
 *Time to roll over a 64 bit counter = 292.47 yrs (woah)
     -64bit has max value of 9,223,372,036,854,775,807 (Impressed whistle)
+
     -2.7GHZ = 1,000,000,000 cycles per second
+
     -(9,223,372,036,854,775,807 / 1000000000sec = 9223372037seconds)
+
     -(9223372037 sec / 60 / 60 / 24 / 365) = 292.47 yrs
