@@ -37,6 +37,7 @@ Section 2 - Basic Terminology
 *nano something = 1/1000000000 of something
     -(https://en.wikipedia.org/wiki/Unit_prefix)
 *pico something = 1/1000000000000 of something
+    -(https://en.wikipedia.org/wiki/Unit_prefix)
 
 Section 3 - From Physics
 ==================
@@ -46,3 +47,7 @@ Section 3 - From Physics
     -(google.com)
 *299792 kilometers per second
     -(google.com)
+
+Section 4 - Speed of Electronic Signals
+===================
+
